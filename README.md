@@ -1,9 +1,3 @@
-# 📚 Java Basics – Daily Coding Journey
-
-This repository contains my daily Java programs as I practice and improve my logic, problem-solving, and DSA (Data Structures & Algorithms) skills for placements.
-
----
-
 ## 🚀 Daily Progress
 
 | Day   | Topics Covered                                                                 | GitHub Folder |
@@ -17,20 +11,4 @@ This repository contains my daily Java programs as I practice and improve my log
 | Day 7 | Sorting: Selection Sort, Bubble Sort + Advanced Patterns                       | Day-7          |
 | Day 8 | 2D Arrays: Sum, Max Element, Matrix Problems                                   | Day-8          |
 | Day 9 | 2D Search + Related LeetCode Problems                                          | Day-9          |
-
----
-
-## 🛠️ Key Concepts Practiced
-
-- Taking user input & output
-- If-else & logical conditions
-- Pattern printing (basic & advanced)
-- Array problems (missing number, sorting, search)
-- Recursion (Fibonacci, factorial)
-- Searching & Sorting techniques
-- 2D Arrays and Matrix problems
-
----
-
-## 📂 Folder Structure
-
+| Day 10| Strings – Length, Vowel Count, Equality, Reversal                              | Day-10         |
