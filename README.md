@@ -11,3 +11,4 @@
 | Day 9      | Matrix Search + LeetCode Practice                                                              | Day-9         |
 | Day 10     | String Manipulation (Vowel Count, Word Count, Palindrome Check)                                | Day-10        |
 | Day 11     | Refactored Old Code (Array + String)                                                           | Day-11        |
+| **Day 12** | String Logic – Palindrome, Frequency, Anagram                                                  | Day-12        |
