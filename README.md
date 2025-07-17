@@ -1,59 +1,46 @@
-📘 Java Basics – Daily Coding Journey
-This repository contains my daily practice programs written in Java, focused on strengthening logic, DSA concepts, and coding fundamentals.
+# 📚 Java Basics – Daily Coding Journey
 
-🗓️ Daily Progress
-Day 1: Java Installation, Hello World
+This repository contains basic to intermediate Java programs that I am practicing daily to strengthen logic building, problem-solving, and DSA concepts. It is a part of my structured learning journey toward placements.
 
-Day 2: If-Else Statements (Positive/Negative, Voting Eligibility, Largest of Three Numbers)
+---
 
-Day 3: Pattern Printing (Right-Angled Triangle, Square, Number Patterns)
+## 🚀 Daily Progress
 
-Day 4: Arrays – Missing Number, Array Traversal
+| Day    | Topics Covered                                                                 |
+|--------|--------------------------------------------------------------------------------|
+| Day 1  | Java Setup, Hello World                                                        |
+| Day 2  | If-Else Problems (Positive/Negative, Voting, Largest of 3 Numbers)             |
+| Day 3  | Pattern Problems (Triangles, Squares, Number Patterns)                         |
+| Day 4  | Arrays – Traversal, Missing Number                                             |
+| Day 5  | Functions & Recursion (Factorial, Fibonacci)                                   |
+| Day 6  | Searching (Linear Search, Binary Search, Min/Max, Even/Odd Count)             |
+| Day 7  | Sorting (Selection Sort, Bubble Sort), Advanced Patterns                       |
+| Day 8  | Strings – Palindrome Check, Character Frequency                                |
+| Day 9  | Character Count, String Reversal, LeetCode Introduction                        |
+| Day 10 | Arrays – Max Element, Sum, LeetCode Arrays                                     |
+| Day 11 | LeetCode String Problems (Anagram, First Unique Char)                          |
+| Day 12 | Arrays – Move Zeroes, LeetCode Practice (Stack & Arrays)                       |
+| Day 13 | Balanced Parentheses, More LeetCode Practice                                   |
+| Day 14 | Count Occurrences, Second Largest, Even/Odd Count                              |
+| Day 15 | Array to Matrix Conversion, 2D Array Sum, LeetCode Merge Problems              |
+| **Day 16** | Frequency of Elements, Vowel/Consonant/Digit/Special Count + LeetCode Practice  |
 
-Day 5: Recursion – Factorial, Fibonacci
+---
 
-Day 6: Searching – Linear & Binary Search, Count Even/Odd
+## 🛠️ Topics Practiced So Far
 
-Day 7: Sorting – Selection Sort, Bubble Sort, Advanced Patterns
+- Taking input, basic operators
+- Conditional logic (if-else, switch)
+- Loops (for, while)
+- Patterns (stars, numbers, pyramids)
+- Arrays (traversal, search, sort, sum, frequency)
+- Strings (reversal, palindrome, char frequency)
+- Functions and Recursion
+- Sorting & Searching
+- 2D Arrays
+- LeetCode problem-solving
 
-Day 8: String Operations – Palindrome, Reverse
+---
 
-Day 9: Frequency Count in Arrays, Second Largest Element
+## 📁 Repository Structure
 
-Day 10: Basic 2D Array Operations
-
-Day 11: Array Traversals – Diagonal Sum, Transpose
-
-Day 12: Stack Logic – Valid Parentheses
-
-Day 13: Move Zeroes in Array
-
-Day 14: Count Occurrences, Second Largest, Count Even/Odd
-
-Day 15: Unique Elements in Array, Anagram Check
-
-🧠 Concepts Covered
-Input/Output in Java
-
-Conditional Statements
-
-Loops & Patterns
-
-1D & 2D Arrays
-
-Sorting and Searching
-
-Recursion
-
-Strings
-
-Stack Basics
-
-👨‍💻 About Me
-I’m a 4th year B.Tech CSE (CSBS) student at VIT-AP University, focused on:
-
-Preparing for placements
-
-Improving DSA & Java skills
-
-Building strong GitHub & LinkedIn portfolios
